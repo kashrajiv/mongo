@@ -1,0 +1,18 @@
+{
+  "name": "mongotutorial",
+  "version": "1.0.0",
+  "description": "Tutorial to create express app with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo It works",
+    "start": "nodemon index.js"
+  },
+  "author": "Rajiv",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22"
+  }
+}
